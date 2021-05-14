@@ -1,6 +1,6 @@
 # MTCNN-Pytorch
 Github gốc:https://github.com/Sierkinhane/mtcnn-pytorch
-
+Docs về MTCNN:https://docs.google.com/document/d/1hQRklxe0_3Y_-qcHWaN04pCmzJ4TFGsP_cz6MkdqFXU/edit?usp=sharing
 dataset:
 DowLoad Dataset FaceWider sử dụng cho train O-P-R 
 
